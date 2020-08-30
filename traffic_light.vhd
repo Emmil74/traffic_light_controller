@@ -1,5 +1,4 @@
--- P.S this vhdl program was created for educational purposes. Please do not implement in real life traffic signal.
--- The vhdl code does not have delay, counter, or sensor. 
+
 library ieee;
 use ieee.std_logic_1164.all; 
 
